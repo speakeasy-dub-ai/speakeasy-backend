@@ -4,3 +4,5 @@ python-multipart  # for handling file uploads
 paramiko          # for SFTP
 aiofiles          # for async file operations
 pydantic
+moviepy==1.0.3
+imageio-ffmpeg
