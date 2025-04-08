@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart  # for handling file uploads
+paramiko          # for SFTP
+aiofiles          # for async file operations
+pydantic
