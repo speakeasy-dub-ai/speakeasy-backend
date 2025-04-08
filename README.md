@@ -9,6 +9,8 @@ git clone https://github.com/neuro-dub-Ai/speakeasy-backend.git
 ```
 - now run the commands one by one  
 ```
+python -m venv .venv
+
 .venv\Scripts\activate
 
 pip install -r requirements.txt
