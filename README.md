@@ -18,3 +18,12 @@ pip install -r requirements.txt
 ```
 uvicorn main:app --reload --host 127.0.0.1 --port 8000
 ```
+
+## Go to browser and paste this url 
+```
+http://127.0.0.1:8000
+```
+- to see routes go to 
+```
+http://127.0.0.1:8000/docs
+```
